@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mashedpotato98
-- 👀 I’m interested in -- Game devlopment and mc modding
-- 🌱 I’m currently learning -- Godot and modding 
+- 👀 I’m interested in -- Game devlopment and minecraft modding
+- 🌱 I’m currently learning -- Godot and databases and powershell
 - 💞️ I’m looking to collaborate on -- Game jams
 - 📫 How to reach me -- Comment on https://www.youtube.com/channel/UCQdYC3XVQyQM84-YBpSYkqA
 
